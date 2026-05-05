@@ -5,3 +5,4 @@ python-dotenv
 O365
 google-adk
 google-cloud-aiplatform
+gemini1
