@@ -1,0 +1,15 @@
+{
+    "corpus_config": {
+        "display_name": "API_Registrar_Mappings",
+        "description": "Corpus containing CBS API to Consumer mappings"
+    },
+    "ingestion_pipeline": {
+        "source_uri": "gs://cbs-api-registrar-bucket/mappings/knowledge.txt",
+        "file_type": "text/plain",
+        "import_config": {
+            "max_embedding_size": 768,
+            "chunk_size": 512,
+            "chunk_overlap": 50
+        }
+    }
+}

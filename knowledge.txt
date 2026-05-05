@@ -1,0 +1,19 @@
+# Knowledge Base Notepad
+# Add your company information, FAQs, and policies here.
+# Each paragraph or section will be used by the agent to answer emails.
+
+below is the api and consumer mapping:
+E001 - CBS101
+E002 - CBS102
+E003 - CBS103
+E004 - CBS104
+E005 - CBS105
+E006 - CBS106
+E007 - CBS107
+E008 - CBS108
+E009 - CBS109
+E010 - CBS110
+E011 - CBS111
+E012 - CBS112
+E013 - CBS113
+E014 - CBS114
